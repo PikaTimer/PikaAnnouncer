@@ -1,9 +1,9 @@
-module com.pikareader.pikaannouncer {
+module com.pikatimer.pikaannouncer {
     requires javafx.controls;
     requires javafx.fxml;
 
-    opens com.pikareader.pikaannouncer to javafx.fxml;
-    exports com.pikareader.pikaannouncer;
+    opens com.pikatimer.pikaannouncer to javafx.fxml;
+    exports com.pikatimer.pikaannouncer;
     
     requires org.json;
     requires  org.slf4j;
