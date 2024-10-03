@@ -14,7 +14,7 @@
  * You should have received a copy of the GNU General Public License
  * along with this program.  If not, see <http://www.gnu.org/licenses/>.
  */
-package com.pikareader.pikaannouncer;
+package com.pikatimer.pikaannouncer;
 
 import de.siegmar.fastcsv.reader.CsvReader;
 import java.io.BufferedReader;
